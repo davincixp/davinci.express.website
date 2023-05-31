@@ -180,6 +180,7 @@ pre>code {
 button,
 .button {
   margin-bottom: 1rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 input,
@@ -244,6 +245,7 @@ hr {
   object-fit: cover;
   background-position: center;
   /* border-radius: 50%; */
+  /* overflow: visible; */
 }
 
 
